@@ -1,0 +1,13 @@
+E:\work\repos\saludo\bin\Debug\netcoreapp3.1\saludo.exe
+E:\work\repos\saludo\bin\Debug\netcoreapp3.1\saludo.deps.json
+E:\work\repos\saludo\bin\Debug\netcoreapp3.1\saludo.runtimeconfig.json
+E:\work\repos\saludo\bin\Debug\netcoreapp3.1\saludo.runtimeconfig.dev.json
+E:\work\repos\saludo\bin\Debug\netcoreapp3.1\saludo.dll
+E:\work\repos\saludo\bin\Debug\netcoreapp3.1\saludo.pdb
+E:\work\repos\saludo\obj\Debug\netcoreapp3.1\saludo.csprojAssemblyReference.cache
+E:\work\repos\saludo\obj\Debug\netcoreapp3.1\saludo.AssemblyInfoInputs.cache
+E:\work\repos\saludo\obj\Debug\netcoreapp3.1\saludo.AssemblyInfo.cs
+E:\work\repos\saludo\obj\Debug\netcoreapp3.1\saludo.csproj.CoreCompileInputs.cache
+E:\work\repos\saludo\obj\Debug\netcoreapp3.1\saludo.dll
+E:\work\repos\saludo\obj\Debug\netcoreapp3.1\saludo.pdb
+E:\work\repos\saludo\obj\Debug\netcoreapp3.1\saludo.genruntimeconfig.cache
